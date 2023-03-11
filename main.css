@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+}
+
+.main-div {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+    color: wheat;
+}
+
+.rosa-image {
+    width: 1620px;
+    height: 780px;
+}
